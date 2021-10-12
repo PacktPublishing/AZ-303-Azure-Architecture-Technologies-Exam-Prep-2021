@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-6.4.0&viewFallbackFrom=azps-2.5.0

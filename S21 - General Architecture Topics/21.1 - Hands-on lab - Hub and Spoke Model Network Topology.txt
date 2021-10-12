@@ -1,0 +1,8 @@
+Hands-on lab: Hub and Spoke Model Network Topology
+
+
+Someone asked about the hub-and-spoke model of network topology. Here's a lab from the AZ-104 Github repository that demonstrates that. It's well worth going through this lab yourself, which should take about 45-60 minutes.
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md
+
+https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T04_Lab_Mod03_Deploying%20Network%20Infrastructure%20for%20use%20in%20Azure%20Solutions.md

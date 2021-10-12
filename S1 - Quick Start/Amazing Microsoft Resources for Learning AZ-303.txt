@@ -1,0 +1,42 @@
+Amazing Microsoft Resources for Learning AZ-303
+
+Here are some official Microsoft websites that you really should bookmark when studying for the AZ-303 exam:
+
+Learning paths on MS Learn:
+
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-303#two-ways-to-prepare
+
+MS Learn
+
+https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure
+
+Azure Code Samples
+
+https://azure.microsoft.com/en-us/resources/samples/?sort=0
+
+Official Azure Documentation
+
+https://docs.microsoft.com/en-us/azure/
+
+Official Microsoft Azure YouTube Channel
+
+https://www.youtube.com/user/windowsazure
+
+
+
+
+
+Microsoft Labs and Workshops - Practice is the key to success
+
+Azure Citadel - Labs and Workshops
+
+https://azurecitadel.com/
+
+Microsoft Cloud Workshop - More labs and workshops
+
+https://microsoftcloudworkshop.com/
+
+Github AZ-303 from Microsoft Training
+
+https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies
+

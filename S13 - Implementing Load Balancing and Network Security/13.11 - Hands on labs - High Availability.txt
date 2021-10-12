@@ -1,0 +1,8 @@
+Hands on labs High Availability
+
+
+NOTE: Microsoft doesn't provide free hands-on labs anymore. As of Jan 2020, they have been removed.
+
+There is a lab available on Github, which requires your own Azure account to use instead of one provided by Microsoft.
+
+https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_05_Lab.md

@@ -1,0 +1,8 @@
+Hands on labs: Cosmos DB
+
+
+NOTE: Microsoft doesn't provide free hands-on labs anymore. As of Jan 2020, they have been removed.
+
+There is a lab available on Github, which requires your own Azure account to use instead of one provided by Microsoft.
+
+https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T02_Lab_Mod02_Deploying%20Database%20Instances%20in%20Azure.md

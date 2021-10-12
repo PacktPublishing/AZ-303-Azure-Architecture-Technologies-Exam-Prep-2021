@@ -1,0 +1,9 @@
+Hands-on labs: Azure Storage
+
+
+NOTE: Microsoft doesn't provide free hands-on labs anymore. As of Jan 2020, they have been removed.
+
+There is a lab available on Github, which requires your own Azure account to use instead of one provided by Microsoft:
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_07-Manage_Azure_Storage.md
+

@@ -1,0 +1,10 @@
+Hands on labs: Azure Automation with ARM templates
+
+
+NOTE: Microsoft doesn't provide free hands-on labs anymore. As of Jan 2020, they have been removed.
+
+There is a lab available on Github, which requires your own Azure account to use instead of one provided by Microsoft.
+
+https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T02_Lab_Mod03_Deploying%20Configuration%20Management%20solutions%20to%20Azure.md
+
+https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T03_Lab_Mod01_Getting%20Started%20with%20Azure%20Resource%20Manager%20Templates.md
